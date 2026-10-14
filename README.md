@@ -37,7 +37,22 @@ This project analyses Spotify user bahaviour using Microsoft Power BI. The goal 
 - Data driven reporting througha Power BI dashboard.
 
 # Project files 
-- Dashboard Screenshots 
+## Dashboard Preview
+
+### Page 1 - Overview
+![Dashboard Page 1](Dashboard%20page%201.png)
+
+### Page 2 - Deep Dive
+![Dashboard Page 2](dashboard%20page%202.png)
+
+## Tools Used
+- Power BI
+- Excel / CSV
+
+## Key Insights
+- Most active age group: 25-34
+- Top country: [add yours]
+- Premium users listen 2x more
 - PBIX file link: [Add Google Drive link if file >100MB]
 - Project Documentation.
 
