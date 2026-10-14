@@ -1,14 +1,14 @@
 Spotify User Behaviour Dashboard - Power BI
-Power BI dashboard analyzing Spotify user behaviour for 50,000 users.
+Power BI dashboard analysing Spotify user behaviour for 50,000 users.
 
 # Overview
-This project analyses Spotify user bahaviour using Microsoft Power BI. The goal is to explore user activity patterns,understand engagement and identify trends that can support data driven decision making.
+This project analyses Spotify user behaviour using Microsoft Power BI. The goal is to explore user activity patterns,understand engagement and identify trends that can support data driven decision making.
 
 # Objectives
-- Analyze Spotify user activity and engagement. 
-- Identify active and inactive users.
-- Explore user behaviour patterns and trends.
-- Present key findings through interactive data visualizations.
+- Analyse Spotify user activity and engagement 
+- Identify active and inactive users
+- Explore user behaviour patterns and trends
+- Present key findings through interactive data visualisations
 
 # Dashboard Pages
 *Page 1 - Overview:**
@@ -20,21 +20,21 @@ This project analyses Spotify user bahaviour using Microsoft Power BI. The goal 
 *Page 2 - Engagement:**
 - 84.22% Active User Rate
 - 9.99 Average Hours Per Week
-- Average Hours by Subscription (Free, Premium Individual, Family, Duo, Student all 9-10 hours).
+- Average Hours by Subscription (Free, Premium Individual, Family, Duo, Student all 9-10 hours)
 - User By Device: Smart Speaker 20.1%, Car System 20.09%, Desktop 20.07%, Mobile 19.87%, Tablet 19.86%
 
 # Tools
 - Microsoft Power BI - Dashboard
-- Power Query - data preparation and transformation.
-- DAX - calculated columns, measures and user activity classification.
-- Data Visualization (KPI Cards, Donut, Bar Charts)
+- Power Query - data preparation and transformation
+- DAX - calculated columns, measures and user activity classification
+- Data Visualisation (KPI Cards, Donut, Bar Charts)
 - Alt text added for accessibility
 
 # Key Features 
-- Interactive charts and visualization
+- Interactive charts and visualisation
 - Active versus inactive user analysis
-- User behaviour insights.
-- Data driven reporting througha Power BI dashboard.
+- User behaviour insights
+- Data driven reporting through Power BI dashboard
 
 # Project files 
 ## Dashboard Preview
@@ -54,7 +54,7 @@ This project analyses Spotify user bahaviour using Microsoft Power BI. The goal 
 - Top country: [add yours]
 - Premium users listen 2x more
 - PBIX file link: [Add Google Drive link if file >100MB]
-- Project Documentation.
+- Project Documentation
 
 # Conclusion
 This project demonstrates my practical application of Power BI to explore user behaviour, transform data into meaningful visualisation and communicate insights through an interactive dashboard.
@@ -62,6 +62,6 @@ This project demonstrates my practical application of Power BI to explore user b
 
   # Author: Reginald Mashaba
 
-  This projrct was developed as part of my ongoing leanerning journey in data analysis.
+  This project was developed as part of my ongoing learning journey in data analysis.
 
 Built by Mashaba Reginald - Data Analyst | Johannesburg, SA
